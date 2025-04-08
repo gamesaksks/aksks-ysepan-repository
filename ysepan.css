@@ -69,7 +69,7 @@ button {
 }
 
 /* 删除举报按钮 */
-span[style="font-size: 9pt"] {
+.myButton {
 	display: none;
 }
 
